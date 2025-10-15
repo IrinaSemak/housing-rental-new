@@ -1,0 +1,3 @@
+rootProject.name = 'housing-rental-gradle'
+include 'core'
+include 'cli'
